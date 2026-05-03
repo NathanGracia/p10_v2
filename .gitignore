@@ -1,3 +1,6 @@
+# Fichiers locaux uniquement
+CLAUDE.md
+
 # Data (trop lourd pour Git)
 data/
 *.pickle
