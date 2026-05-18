@@ -3,7 +3,9 @@ CLAUDE.md
 
 # Data (trop lourd pour Git)
 data/
+models/
 *.pickle
+*.pkl
 *.zip
 *.csv
 
